@@ -46,3 +46,6 @@ Example:
 ```
 python cloudfuzz.py -cidr 176.34.184.91/24 -t 200
 ```
+
+> [!WARNING]  
+> cloudfuzz is intended for educational and ethical hacking purposes only. It should only be used to test systems you own or have explicit permission to test. Unauthorized use of third-party websites or systems without consent is illegal and unethical.
